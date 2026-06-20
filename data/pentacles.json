@@ -1,0 +1,183 @@
+[
+    {
+        "number": 1,
+        "name": "Ace of Pentacles",
+        "suit": "pentacles",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Ace of Pentacles placeholder",
+                "reversedMeaning": "Ace of Pentacles reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 2,
+        "name": "Two of Pentacles",
+        "suit": "pentacles",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Two of Pentacles placeoholder",
+                "reversedMeaning": "Two of Pentacles reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 3,
+        "name": "Three of Pentacles",
+        "suit": "pentacles",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Three of Pentacles placeholder",
+                "reversedMeaning": "Three of Pentacles reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 4,
+        "name": "Four of Pentacles",
+        "suit": "pentacles",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Four of Pentacles placeholder",
+                "reversedMeaning": "Four of Pentacles reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 5,
+        "name": "Five of Pentacles",
+        "suit": "pentacles",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Five of Pentacles placeholder",
+                "reversedMeaning": "Five of Pentacles reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 6,
+        "name": "Six of Pentacles",
+        "suit": "pentacles",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Six of Pentacles placeholder",
+                "reversedMeaning": "Six of Pentacles reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 7,
+        "name": "Seven of Pentacles",
+        "suit": "pentacles",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Seven of Pentacles placeholder",
+                "reversedMeaning": "Seven of Pentacles reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 8,
+        "name": "Eight of Pentacles",
+        "suit": "pentacles",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Eight of Pentacles placeholder",
+                "reversedMeaning": "Eight of Pentacles reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 9,
+        "name": "Nine of Pentacles",
+        "suit": "pentacles",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Nine of Pentacles placeholder",
+                "reversedMeaning": "Nine of Pentacles reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 10,
+        "name": "Ten of Pentacles",
+        "suit": "pentacles",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Ten of Pentacles placeholder",
+                "reversedMeaning": "Ten of Pentacles reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 11,
+        "name": "Page of Pentacles",
+        "suit": "pentacles",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Page of Pentacles placeholder",
+                "reversedMeaning": "Page of Pentacles reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 12,
+        "name": "Knight of Pentacles",
+        "suit": "pentacles",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Knight of Pentacles placeholder",
+                "reversedMeaning": "Knight of Pentacles reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 13,
+        "name": "Queen of Pentacles",
+        "suit": "pentacles",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Queen of Pentacles placeholder",
+                "reversedMeaning": "Queen of Pentacles reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 14,
+        "name": "King of Pentacles",
+        "suit": "pentacles",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "King of Pentacles placeholder",
+                "reversedMeaning": "King of Pentacles reversed placeholder"
+            }
+        }
+    }
+]

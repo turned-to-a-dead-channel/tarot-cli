@@ -1,0 +1,183 @@
+[
+    {
+        "number": 1,
+        "name": "Ace of Cups",
+        "suit": "cups",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Ace of Cups placeholder",
+                "reversedMeaning": "Ace of Cups reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 2,
+        "name": "Two of Cups",
+        "suit": "cups",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Two of Cups placeoholder",
+                "reversedMeaning": "Two of Cups reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 3,
+        "name": "Three of Cups",
+        "suit": "cups",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Three of Cups placeholder",
+                "reversedMeaning": "Three of Cups reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 4,
+        "name": "Four of Cups",
+        "suit": "cups",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Four of Cups placeholder",
+                "reversedMeaning": "Four of Cups reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 5,
+        "name": "Five of Cups",
+        "suit": "cups",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Five of Cups placeholder",
+                "reversedMeaning": "Five of Cups reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 6,
+        "name": "Six of Cups",
+        "suit": "cups",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Six of Cups placeholder",
+                "reversedMeaning": "Six of Cups reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 7,
+        "name": "Seven of Cups",
+        "suit": "cups",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Seven of Cups placeholder",
+                "reversedMeaning": "Seven of Cups reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 8,
+        "name": "Eight of Cups",
+        "suit": "cups",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Eight of Cups placeholder",
+                "reversedMeaning": "Eight of Cups reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 9,
+        "name": "Nine of Cups",
+        "suit": "cups",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Nine of Cups placeholder",
+                "reversedMeaning": "Nine of Cups reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 10,
+        "name": "Ten of Cups",
+        "suit": "cups",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Ten of Cups placeholder",
+                "reversedMeaning": "Ten of Cups reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 11,
+        "name": "Page of Cups",
+        "suit": "cups",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Page of Cups placeholder",
+                "reversedMeaning": "Page of Cups reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 12,
+        "name": "Knight of Cups",
+        "suit": "cups",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Knight of Cups placeholder",
+                "reversedMeaning": "Knight of Cups reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 13,
+        "name": "Queen of Cups",
+        "suit": "cups",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Queen of Cups placeholder",
+                "reversedMeaning": "Queen of Cups reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 14,
+        "name": "King of Cups",
+        "suit": "cups",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "King of Cups placeholder",
+                "reversedMeaning": "King of Cups reversed placeholder"
+            }
+        }
+    }
+]

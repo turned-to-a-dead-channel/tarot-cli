@@ -6,8 +6,8 @@
         "interpretations": {
             "yesOrNo": "Yes",
             "standard": {
-                "meaning": "You're about to walk out the door and right off a cliff.",
-                "reversedMeaning": "Pause for a moment and observe you're about to fall off a cliff"
+                "meaning": "Is it a stumble or a leap of faith? Is he careless or carefree? He's full of curiosity and open to possibilities, but that's no guarantee things will end well. There's no sign yet what the outcome will be, but isn't that what makes it exciting?",
+                "reversedMeaning": "Caution can be a prison, but it can also be a good thing. It can be hard to know in the moment whether the cliff ahead is a leap of faith or just a cliff."
             }
         },
         "lyric": "Found yourself in a new direction\nArrows falling from the sun\nCanyon calling, would they come to greet you?\nLet you know you're not the only one - Beach House, Myth"
@@ -20,10 +20,11 @@
         "interpretations": {
             "yesOrNo": "Yes",
             "standard": {
-                "meaning": "Manifesting your desires",
-                "reversedMeaning": "Performing competence." 
+                "meaning": "There's a moment when practice becomes competence, when the training starts clicking into place.",
+                "reversedMeaning": "Appearing competent isn't the same as being competent. Treading water doesn't move anyone forward." 
             }
-        }
+        },
+        "lyric": "Here we are\nOne magical movement\nFrom Kether to Malkuth. - David Bowie, Station to Station"
     },
 
     {
@@ -33,8 +34,256 @@
         "interpretations": {
             "yesOrNo": "Maybe", 
             "standard": {
-                "meaning": "You've got secrets.",
-                "reversedMeaning": "You're withdrawing inwards."
+                "meaning": "Saying nothing doesn't mean you have nothing worth saying. Feeling can reveal things just as well as thinking.",
+                "reversedMeaning": "A moment of calm may be needed. Take time to reacquaint yourself with yourself."
+            }
+        },
+        "lyric" : "You'll hang the hearts black and dull as the night\nWe hanged your pass and start being as you\n(Still being cried and laughed at before) - Cocteau Twins, Cherry-Coloured Funk"
+    },
+
+    {
+        "number": 3,
+        "romanNumeral": "III", 
+        "name": "The Empress", 
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Is self denial a virtue or is just self denial? There's nothing wrong with indulging when there's an abundance.", 
+                "reversedMeaning": "Ineptitude can grow from too much comfort. There's nothing wrong with being comfortable, but one should maintain the ability to deal with hardship."
+            }
+        }
+    },
+
+    {
+        "number": 4,
+        "romanNumeral": "IV",
+        "name": "The Emperor",
+        "interpretations": {
+            "yesOrNo": "Maybe",
+            "standard": {
+                "meaning": "Those who keep the structure are the ones aware of it. The parents are aware of the household maintenance, not the children. The generals are aware of thwarted wars, not the civilians. For those who maintain the structure, it can be suffocating and for everyone else, it's invisible.",
+                "reversedMeaning": "Systems that serve no purpose become a hindrance rather than a help."
+            }
+        }
+    },
+
+    {
+        "number": 5,
+        "romanNumeral": "V",
+        "name": "The Hierophant",
+        "interpretations": {
+            "yesOrNo": "Maybe",
+            "standard": {
+                "meaning": "Heirophant placeholder",
+                "reversedMeaning": "Heirophant reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 6,
+        "romanNumeral": "VI",
+        "name": "The Lovers",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Lovers placeholder",
+                "reversedMeaning": "Lovers reversed placeholder"
+            }
+        }
+    }, 
+
+    {
+        "number": 7,
+        "romanNumeral": "VII",
+        "name": "The Chariot",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Chariot placeholder",
+                "reversedMeaning": "Chariot reversed placeholder"
+            }
+        }
+    }, 
+
+    {
+        "number": 8,
+        "romanNumeral": "VIII",
+        "name": "Strength",
+        "interpretations": {
+            "yesOrNo": "Maybe",
+            "standard": {
+                "meaning": "Strength placeholder",
+                "reversedMeaning": "Strength reversed placeholder"
+            }
+        }
+    }, 
+
+    {
+        "number": 9,
+        "romanNumeral": "IX",
+        "name": "The Hermit",
+        "interpretations": {
+            "yesOrNo": "No",
+            "standard": {
+                "meaning": "Hermit placeholder",
+                "reversedMeaning": "Hermit reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 10,
+        "romanNumeral": "X",
+        "name": "Wheel of Fortune",
+        "interpretations": {
+            "yesOrNo": "Maybe",
+            "standard": {
+                "meaning": "WoF placeholder",
+                "reversedMeaning": "WoF reversed placeholder"
+            }
+        }
+    }, 
+
+    {
+        "number": 11,
+        "romanNumeral": "XI",
+        "name": "Justice",
+        "interpretations": {
+            "yesOrNo": "Maybe",
+            "standard": {
+                "meaning": "Justice placeholder",
+                "reversedMeaning": "Justice reversed placeholder"
+            }
+        }
+    }, 
+
+    {
+        "number": 12,
+        "romanNumeral": "XII",
+        "name": "The Hanged Man",
+        "interpretations": {
+            "yesOrNo": "No",
+            "standard": {
+                "meaning": "Hanged Man placeholder",
+                "reversedMeaning": "Hanged Man reversed placeholder"
+            }
+        }
+    }, 
+
+    {
+        "number": 13,
+        "romanNumeral": "XIII",
+        "name": "Death",
+        "interpretations": {
+            "yesOrNo": "No",
+            "standard": {
+                "meaning": "Death placeholder",
+                "reversedMeaning": "Death reversed placeholder"
+            }
+        }
+    }, 
+
+    {
+        "number": 14,
+        "romanNumeral": "XIV",
+        "name": "Temperance",
+        "interpretations": {
+            "yesOrNo": "Maybe",
+            "standard": {
+                "meaning": "Temperance placeholder",
+                "reversedMeaning": "Temperance reversed placeholder"
+            }
+        }
+    }, 
+
+    {
+        "number": 15,
+        "romanNumeral": "XV",
+        "name": "The Devil",
+        "interpretations": {
+            "yesOrNo": "No",
+            "standard": {
+                "meaning": "The Devil placeholder",
+                "reversedMeaning": "The Devil reversed placeholder"
+            }
+        }
+    }, 
+
+    {
+        "number": 16,
+        "romanNumeral": "XVI",
+        "name": "The Tower",
+        "interpretations": {
+            "yesOrNo": "No",
+            "standard": {
+                "meaning": "The Tower placeholder",
+                "reversedMeaning": "The Tower reversed placeholder"
+            }
+        }
+    }, 
+
+    {
+        "number": 17,
+        "romanNumeral": "XVII",
+        "name": "The Star",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "The Star placeholder",
+                "reversedMeaning": "The Star reversed placeholder"
+            }
+        }
+    }, 
+
+    {
+        "number": 18,
+        "romanNumeral": "XVIII",
+        "name": "The Moon",
+        "interpretations": {
+            "yesOrNo": "No",
+            "standard": {
+                "meaning": "The Moon placeholder",
+                "reversedMeaning": "The Moon reversed placeholder"
+            }
+        }
+    }, 
+
+    {
+        "number": 19,
+        "romanNumeral": "XIX",
+        "name": "The Sun",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "The Sun placeholder",
+                "reversedMeaning": "The Sun reversed placeholder"
+            }
+        }
+    }, 
+
+    {
+        "number": 20,
+        "romanNumeral": "XX",
+        "name": "Judgment",
+        "interpretations": {
+            "yesOrNo": "No",
+            "standard": {
+                "meaning": "Judgment placeholder",
+                "reversedMeaning": "Judgment reversed placeholder"
+            }
+        }
+    }, 
+
+    {
+        "number": 21,
+        "romanNumeral": "XXI",
+        "name": "The World",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "The World placeholder",
+                "reversedMeaning": "The World reversed placeholder"
             }
         }
     }

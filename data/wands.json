@@ -1,0 +1,183 @@
+[
+    {
+        "number": 1,
+        "name": "Ace of Wands",
+        "suit": "wands",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Ace of Wands placeholder",
+                "reversedMeaning": "Ace of Wands reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 2,
+        "name": "Two of Wands",
+        "suit": "wands",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Two of Wands placeoholder",
+                "reversedMeaning": "Two of Wands reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 3,
+        "name": "Three of Wands",
+        "suit": "wands",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Three of Wands placeholder",
+                "reversedMeaning": "Three of Wands reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 4,
+        "name": "Four of Wands",
+        "suit": "wands",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Four of Wands placeholder",
+                "reversedMeaning": "Four of Wands reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 5,
+        "name": "Five of Wands",
+        "suit": "wands",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Five of Wands placeholder",
+                "reversedMeaning": "Five of Wands reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 6,
+        "name": "Six of Wands",
+        "suit": "wands",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Six of Wands placeholder",
+                "reversedMeaning": "Six of Wands reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 7,
+        "name": "Seven of Wands",
+        "suit": "wands",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Seven of Wands placeholder",
+                "reversedMeaning": "Seven of Wands reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 8,
+        "name": "Eight of Wands",
+        "suit": "wands",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Eight of Wands placeholder",
+                "reversedMeaning": "Eight of Wands reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 9,
+        "name": "Nine of Wands",
+        "suit": "wands",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Nine of Wands placeholder",
+                "reversedMeaning": "Nine of Wands reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 10,
+        "name": "Ten of Wands",
+        "suit": "wands",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Ten of Wands placeholder",
+                "reversedMeaning": "Ten of Wands reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 11,
+        "name": "Page of Wands",
+        "suit": "wands",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Page of Wands placeholder",
+                "reversedMeaning": "Page of Wands reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 12,
+        "name": "Knight of Wands",
+        "suit": "wands",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Knight of Wands placeholder",
+                "reversedMeaning": "Knight of Wands reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 13,
+        "name": "Queen of Wands",
+        "suit": "wands",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Queen of Wands placeholder",
+                "reversedMeaning": "Queen of Wands reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 14,
+        "name": "King of Wands",
+        "suit": "wands",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "King of Wands placeholder",
+                "reversedMeaning": "King of Wands reversed placeholder"
+            }
+        }
+    }
+]

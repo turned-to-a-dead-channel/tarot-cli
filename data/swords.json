@@ -1,0 +1,183 @@
+[
+    {
+        "number": 1,
+        "name": "Ace of Swords",
+        "suit": "swords",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Ace of Swords placeholder",
+                "reversedMeaning": "Ace of Swords reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 2,
+        "name": "Two of Swords",
+        "suit": "swords",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Two of Swords placeoholder",
+                "reversedMeaning": "Two of Swords reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 3,
+        "name": "Three of Swords",
+        "suit": "swords",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Three of Swords placeholder",
+                "reversedMeaning": "Three of Swords reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 4,
+        "name": "Four of Swords",
+        "suit": "swords",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Four of Swords placeholder",
+                "reversedMeaning": "Four of Swords reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 5,
+        "name": "Five of Swords",
+        "suit": "swords",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Five of Swords placeholder",
+                "reversedMeaning": "Five of Swords reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 6,
+        "name": "Six of Swords",
+        "suit": "swords",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Six of Swords placeholder",
+                "reversedMeaning": "Six of Swords reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 7,
+        "name": "Seven of Swords",
+        "suit": "swords",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Seven of Swords placeholder",
+                "reversedMeaning": "Seven of Swords reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 8,
+        "name": "Eight of Swords",
+        "suit": "swords",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Eight of Swords placeholder",
+                "reversedMeaning": "Eight of Swords reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 9,
+        "name": "Nine of Swords",
+        "suit": "swords",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Nine of Swords placeholder",
+                "reversedMeaning": "Nine of Swords reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 10,
+        "name": "Ten of Swords",
+        "suit": "swords",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Ten of Swords placeholder",
+                "reversedMeaning": "Ten of Swords reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 11,
+        "name": "Page of Swords",
+        "suit": "swords",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Page of Swords placeholder",
+                "reversedMeaning": "Page of Swords reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 12,
+        "name": "Knight of Swords",
+        "suit": "swords",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Knight of Swords placeholder",
+                "reversedMeaning": "Knight of Swords reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 13,
+        "name": "Queen of Swords",
+        "suit": "swords",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Queen of Swords placeholder",
+                "reversedMeaning": "Queen of Swords reversed placeholder"
+            }
+        }
+    },
+
+    {
+        "number": 14,
+        "name": "King of Swords",
+        "suit": "swords",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "King of Swords placeholder",
+                "reversedMeaning": "King of Swords reversed placeholder"
+            }
+        }
+    }
+]

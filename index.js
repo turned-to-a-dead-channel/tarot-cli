@@ -1,20 +1,31 @@
 import inquirer from 'inquirer';
 import { input } from "@inquirer/prompts";
-import cards from './data/major-arcana.json' with { type: "json" };
+import majorArcana from './data/major-arcana.json' with { type: "json" };
+import cups from './data/cups.json' with { type: "json" };
+import pentacles from './data/pentacles.json' with { type: "json" };
+import swords from './data/swords.json' with { type: "json" };
+import wands from './data/wands.json' with { type: "json" };
 import { yesOrNoMessages, header } from './utilities/messages.js';
+
+const colorCode = "\x1b[92m";
+const colorCodeBold = "\x1b[1;92m";
+const colorCodeReset = "\x1b[0m";
+
+const deck = [];
+deck.push(...majorArcana, ...cups, ...pentacles, ...swords, ...wands);
 
 const menu = [
     {
         type: 'select', 
         name: 'option', 
-        message: '\x1b[1;92mSelect which spread you\'d like to use to know your destiny:\x1b[0m',
+        message: colorCodeBold + 'Select which spread you\'d like to use to know your destiny:' + colorCodeReset,
         choices: [ 
             { 
-                name: '\x1b[92mYes or No\x1b[0m',
+                name: colorCode + 'Yes or No\x1b[0m',
                 value: "yesOrNo" 
             }, 
             {
-                name: '\x1b[92mOne Card\x1b[0m',
+                name: colorCode + 'One Card\x1b[0m',
                 value: "oneCard"
             }
         ]
@@ -22,7 +33,7 @@ const menu = [
 ]
 
 console.clear();
-console.log('\x1b[1;92m' + header + '\x1b[0m');
+console.log(colorCodeBold + header + colorCodeReset);
 
 inquirer.prompt(menu).then(answer => {
     const choice = answer.option;
@@ -42,12 +53,11 @@ async function discoverYourDestiny(userChoice) {
 
 async function askYourQuestion() {
     const userQuestion = await input({message: "What is your question?"});
-
     return userQuestion; 
 }
 
 async function pickACard() {
-    return cards[Math.floor(Math.random() * cards.length)];
+    return deck[Math.floor(Math.random() * deck.length)];
 }
 
 async function oneCardSpread() {
@@ -55,14 +65,14 @@ async function oneCardSpread() {
     const card = await pickACard();
 
     console.clear();
-    console.log("\x1b[92mThe answer to your question, \"" + question + "\" is....\x1b[0m");
+    console.log(colorCodeBold + "The answer to your question, \"" + question + "\" is...." + colorCodeReset);
 
     setTimeout(() => {
         const isReversed = Math.floor(Math.random() * 2) > 0 ? true : false; 
         const meaning = isReversed ? card.interpretations.standard.reversedMeaning : card.interpretations.standard.meaning;
 
-        console.log("You selected " + card.name + "!");
-        console.log(meaning);
+        console.log(colorCodeBold + "You selected " + card.name + "!" + colorCodeReset);
+        console.log(colorCode + meaning + colorCodeReset);
     }, 2000)
 }
 
@@ -70,10 +80,10 @@ async function yayOrNay() {
     const question = await askYourQuestion();
     const card = await pickACard();
     console.clear();
-    console.log("\x1b[92mThe answer to your question, \"" + question + "\" is....\x1b[0m");
+    console.log(colorCode + "The answer to your question, \"" + question + "\" is...." + colorCodeReset);
 
     setTimeout(() => {
-        console.log('\x1b[92m' + yesOrNoMessages[card.interpretations.yesOrNo.toLowerCase()] + '\x1b[0m');
-        console.log("\n\n(You received " + card.name + ")");
+        console.log(colorCode + yesOrNoMessages[card.interpretations.yesOrNo.toLowerCase()] + colorCodeReset);
+        console.log(colorCode + "\n\n(You received " + card.name + ")" + colorCodeReset);
     }, 2000)
 }
