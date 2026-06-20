@@ -1,0 +1,41 @@
+[
+    {
+        "number": 0,
+        "romanNumeral": "0",
+        "name": "The Fool",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "You're about to walk out the door and right off a cliff.",
+                "reversedMeaning": "Pause for a moment and observe you're about to fall off a cliff"
+            }
+        },
+        "lyric": "Found yourself in a new direction\nArrows falling from the sun\nCanyon calling, would they come to greet you?\nLet you know you're not the only one - Beach House, Myth"
+    },
+
+    {
+        "number": 1,
+        "romanNumeral": "I",
+        "name": "The Magician",
+        "interpretations": {
+            "yesOrNo": "Yes",
+            "standard": {
+                "meaning": "Manifesting your desires",
+                "reversedMeaning": "Performing competence." 
+            }
+        }
+    },
+
+    {
+        "number": 2,
+        "romanNumeral": "II", 
+        "name": "The High Priestess",
+        "interpretations": {
+            "yesOrNo": "Maybe", 
+            "standard": {
+                "meaning": "You've got secrets.",
+                "reversedMeaning": "You're withdrawing inwards."
+            }
+        }
+    }
+]
