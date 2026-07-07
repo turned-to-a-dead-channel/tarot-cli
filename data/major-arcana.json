@@ -6,8 +6,21 @@
         "interpretations": {
             "yesOrNo": "Yes",
             "standard": {
-                "meaning": "Is it a stumble or a leap of faith? Is he careless or carefree? He's full of curiosity and open to possibilities, but that's no guarantee things will end well. There's no sign yet what the outcome will be, but isn't that what makes it exciting?",
-                "reversedMeaning": "Caution can be a prison, but it can also be a good thing. It can be hard to know in the moment whether the cliff ahead is a leap of faith or just a cliff."
+                "meaning": "The start of a new journey that may require a leap of faith.",
+                "reversedMeaning": "Caution can be a prison, but it can also be a good thing. It can be hard to know in the moment whether the cliff ahead is a leap of faith or just a cliff.",
+                "personalMeaning": "Is it a stumble or a leap of faith? Is he careless or carefree? He's full of curiosity and open to possibilities, but that's no guarantee things will end well. There's no sign yet what the outcome will be, but isn't that what makes it exciting?"
+            }, 
+            "daily": {
+                "dailyMeaning": "",
+                "dailyReversedMeaning": ""
+            },
+            "positional": {
+                "pastMeaning": "",
+                "presentMeaning": "",
+                "futureMeaning": "", 
+                "hopesAndFearsMeaning": "",
+                "obstacleMeaning": "",
+                "outcomeMeaning": ""
             }
         },
         "lyric": "Found yourself in a new direction\nArrows falling from the sun\nCanyon calling, would they come to greet you?\nLet you know you're not the only one - Beach House, Myth"
@@ -20,8 +33,9 @@
         "interpretations": {
             "yesOrNo": "Yes",
             "standard": {
-                "meaning": "There's a moment when practice becomes competence, when the training starts clicking into place.",
-                "reversedMeaning": "Appearing competent isn't the same as being competent. Treading water doesn't move anyone forward." 
+                "meaning": "You have all the tools needed, you now need to apply your willpower to manifest what you desire.",
+                "reversedMeaning": "Appearing competent isn't the same as being competent. Treading water doesn't move anyone forward.",
+                "personalMeaning": "There's a moment when practice becomes competence, when the training starts clicking into place."
             }
         },
         "lyric": "Here we are\nOne magical movement\nFrom Kether to Malkuth. - David Bowie, Station to Station"
@@ -34,8 +48,9 @@
         "interpretations": {
             "yesOrNo": "Maybe", 
             "standard": {
-                "meaning": "Saying nothing doesn't mean you have nothing worth saying. Feeling can reveal things just as well as thinking.",
-                "reversedMeaning": "A moment of calm may be needed. Take time to reacquaint yourself with yourself."
+                "meaning": "What is hidden has not been revealed yet, you may need to exercise patience or use your intuition.",
+                "reversedMeaning": "A moment of calm may be needed. Take time to reacquaint yourself with yourself.",
+                "personalMeaning": "Saying nothing doesn't mean you have nothing worth saying. Feeling can reveal things just as well as thinking."
             }
         },
         "lyric" : "You'll hang the hearts black and dull as the night\nWe hanged your pass and start being as you\n(Still being cried and laughed at before) - Cocteau Twins, Cherry-Coloured Funk"
@@ -48,8 +63,10 @@
         "interpretations": {
             "yesOrNo": "Yes",
             "standard": {
-                "meaning": "Is self denial a virtue or is just self denial? There's nothing wrong with indulging when there's an abundance.", 
-                "reversedMeaning": "Ineptitude can grow from too much comfort. There's nothing wrong with being comfortable, but one should maintain the ability to deal with hardship."
+                "meaning": "This is a time of abundance, fertility, and sensuality. Creative growth is possible.", 
+                "reversedMeaning": "Ineptitude can grow from too much comfort. There's nothing wrong with being comfortable, but one should maintain the ability to deal with hardship.",
+                "personalMeaning": "Is self denial a virtue or is just self denial? There's nothing wrong with indulging when there's an abundance."
+
             }
         }
     },
@@ -61,8 +78,9 @@
         "interpretations": {
             "yesOrNo": "Maybe",
             "standard": {
-                "meaning": "Those who keep the structure are the ones aware of it. The parents are aware of the household maintenance, not the children. The generals are aware of thwarted wars, not the civilians. For those who maintain the structure, it can be suffocating and for everyone else, it's invisible.",
-                "reversedMeaning": "Systems that serve no purpose become a hindrance rather than a help."
+                "meaning": "",
+                "reversedMeaning": "Systems that serve no purpose become a hindrance rather than a help.",
+                "personalMeaning": "Those who keep the structure are the ones aware of it. The parents are aware of the household maintenance, not the children. The generals are aware of thwarted wars, not the civilians. For those who maintain the structure, it can be suffocating and for everyone else, it's invisible."
             }
         }
     },
@@ -75,7 +93,8 @@
             "yesOrNo": "Maybe",
             "standard": {
                 "meaning": "Heirophant placeholder",
-                "reversedMeaning": "Heirophant reversed placeholder"
+                "reversedMeaning": "Heirophant reversed placeholder",
+                "personalMeaning": ""
             }
         }
     },
@@ -88,7 +107,8 @@
             "yesOrNo": "Yes",
             "standard": {
                 "meaning": "Lovers placeholder",
-                "reversedMeaning": "Lovers reversed placeholder"
+                "reversedMeaning": "Lovers reversed placeholder",
+                "personalMeaning": ""
             }
         }
     }, 
@@ -101,7 +121,8 @@
             "yesOrNo": "Yes",
             "standard": {
                 "meaning": "Chariot placeholder",
-                "reversedMeaning": "Chariot reversed placeholder"
+                "reversedMeaning": "Chariot reversed placeholder",
+                "personalMeaning": ""
             }
         }
     }, 
@@ -114,7 +135,8 @@
             "yesOrNo": "Maybe",
             "standard": {
                 "meaning": "Strength placeholder",
-                "reversedMeaning": "Strength reversed placeholder"
+                "reversedMeaning": "Strength reversed placeholder",
+                "personalMeaning": ""
             }
         }
     }, 
@@ -127,7 +149,8 @@
             "yesOrNo": "No",
             "standard": {
                 "meaning": "Hermit placeholder",
-                "reversedMeaning": "Hermit reversed placeholder"
+                "reversedMeaning": "Hermit reversed placeholder",
+                "personalMeaning": ""
             }
         }
     },
@@ -140,7 +163,8 @@
             "yesOrNo": "Maybe",
             "standard": {
                 "meaning": "WoF placeholder",
-                "reversedMeaning": "WoF reversed placeholder"
+                "reversedMeaning": "WoF reversed placeholder",
+                "personalMeaning": ""
             }
         }
     }, 
@@ -153,7 +177,8 @@
             "yesOrNo": "Maybe",
             "standard": {
                 "meaning": "Justice placeholder",
-                "reversedMeaning": "Justice reversed placeholder"
+                "reversedMeaning": "Justice reversed placeholder",
+                "personalMeaning": ""
             }
         }
     }, 
@@ -166,7 +191,8 @@
             "yesOrNo": "No",
             "standard": {
                 "meaning": "Hanged Man placeholder",
-                "reversedMeaning": "Hanged Man reversed placeholder"
+                "reversedMeaning": "Hanged Man reversed placeholder",
+                "personalMeaning": ""
             }
         }
     }, 
@@ -179,7 +205,8 @@
             "yesOrNo": "No",
             "standard": {
                 "meaning": "Death placeholder",
-                "reversedMeaning": "Death reversed placeholder"
+                "reversedMeaning": "Death reversed placeholder",
+                "personalMeaning": ""
             }
         }
     }, 
@@ -192,7 +219,8 @@
             "yesOrNo": "Maybe",
             "standard": {
                 "meaning": "Temperance placeholder",
-                "reversedMeaning": "Temperance reversed placeholder"
+                "reversedMeaning": "Temperance reversed placeholder",
+                "personalMeaning": ""
             }
         }
     }, 
@@ -205,7 +233,8 @@
             "yesOrNo": "No",
             "standard": {
                 "meaning": "The Devil placeholder",
-                "reversedMeaning": "The Devil reversed placeholder"
+                "reversedMeaning": "The Devil reversed placeholder",
+                "personalMeaning": ""
             }
         }
     }, 
@@ -218,7 +247,8 @@
             "yesOrNo": "No",
             "standard": {
                 "meaning": "The Tower placeholder",
-                "reversedMeaning": "The Tower reversed placeholder"
+                "reversedMeaning": "The Tower reversed placeholder",
+                "personalMeaning": ""
             }
         }
     }, 
@@ -231,7 +261,8 @@
             "yesOrNo": "Yes",
             "standard": {
                 "meaning": "The Star placeholder",
-                "reversedMeaning": "The Star reversed placeholder"
+                "reversedMeaning": "The Star reversed placeholder",
+                "personalMeaning": ""
             }
         }
     }, 
@@ -244,7 +275,8 @@
             "yesOrNo": "No",
             "standard": {
                 "meaning": "The Moon placeholder",
-                "reversedMeaning": "The Moon reversed placeholder"
+                "reversedMeaning": "The Moon reversed placeholder",
+                "personalMeaning": ""
             }
         }
     }, 
@@ -257,7 +289,8 @@
             "yesOrNo": "Yes",
             "standard": {
                 "meaning": "The Sun placeholder",
-                "reversedMeaning": "The Sun reversed placeholder"
+                "reversedMeaning": "The Sun reversed placeholder",
+                "personalMeaning": ""
             }
         }
     }, 
@@ -270,7 +303,8 @@
             "yesOrNo": "No",
             "standard": {
                 "meaning": "Judgment placeholder",
-                "reversedMeaning": "Judgment reversed placeholder"
+                "reversedMeaning": "Judgment reversed placeholder",
+                "personalMeaning": ""
             }
         }
     }, 
@@ -283,7 +317,8 @@
             "yesOrNo": "Yes",
             "standard": {
                 "meaning": "The World placeholder",
-                "reversedMeaning": "The World reversed placeholder"
+                "reversedMeaning": "The World reversed placeholder",
+                "personalMeaning": ""
             }
         }
     }
