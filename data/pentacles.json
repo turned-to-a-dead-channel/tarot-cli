@@ -103,17 +103,44 @@
         }
     },
 
-    {
+    {   
         "number": 9,
-        "name": "Nine of Pentacles",
-        "suit": "pentacles",
-        "interpretations": {
-            "yesOrNo": "Yes",
-            "standard": {
-                "meaning": "Nine of Pentacles placeholder",
-                "reversedMeaning": "Nine of Pentacles reversed placeholder"
-            }
-        }
+            "romanNumeral": "IX",
+            "name": "Nine of Pentacles",
+            "interpretations": {
+                "yesOrNo": "Yes",
+                "standard": {
+                    "meaning": "This is a time of abundance and material comfort. Enjoy yourself.",
+                    "reversedMeaning": "A time when self discipline and caution is needed, tread carefully.",
+                    "personalMeaning": "Above all, this card is about comfort. A reminder to occasionally kick back and indulge yourself, especially after a period of hard work. A signal to expend some time or money on creating a home or revisiting your hobbies.",
+                    "personalReversedMeaning": "If upright is about indulging yourself, this is is a signal to rein it in. Considering sitting your ass down and figuring out a plan to work towards a goal that needs accomplishing rather than spending another night in front of the tv with a snack."
+                }, 
+                "daily": {
+                    "dailyMeaning": "Treat yourself. TREAT YOURSELF.",
+                    "dailyReversedMeaning": "Don't treat yourself. Rein yourself in and practice some discipline, find value and self worth through denial rather than indulgence."
+                },
+                "positional": {
+                    "familyAndFriends": "Your home is your castle, your loved ones are a source of great joy.",
+                    "finalOutcomeMeaning": "Total success. Enjoy it.",
+                    "futureMeaning": "You'll soon feel the pull of a better life, consider investing in creating a better future for yourself.", 
+                    "hopesAndFearsMeaning": "In the end, all you really want is to be independent, wanting for nothing.",
+                    "influencesMeaning": "You feel pride in your accomplishments and independence.",
+                    "negativeMeaning": "You have high standards and too strong of a focus on material wealth.",
+                    "obstacleMeaning": "You are relaxing and indulging yourself too much rather than pushing towards your goals.",
+                    "pastMeaning": "In the past, you've experienced times of comfort, which may have turned you soft and unequipped for the future.",
+                    "possibleOutcome": "You may experience an unexpected opportunity.",
+                    "presentMeaning": "You're going through a time of comfort and peace and should take the time to enjoy it while it lasts.",
+                    "recentMeaning": "You've been sitting around long enough, it's time to get to work."
+                },
+                "subject": {
+                    "adviceMeaning": "A reminder to occasionally take time for yourself and relax.",
+                    "careerMeaning": "Expect the profits to come rolling in.",
+                    "financeMeaning": "Invest in yourself. Work towards creating a life of abundance.",
+                    "healthMeaning": "You're reaping the rewards of hard work. Recovery has either been reached or is on the way.",
+                    "loveMeaning": "If single, consider examining your standards, because they may be too high. If in a relationship, those high standards paid off and you have everything you want, even if you don't currently realize it."
+                }
+            },
+            "lyric": "Always believe in your soul\nYou've got the power to know\nYou're indestructible, always believing\n'Cause you are gold - Spandau Ballet"
     },
 
     {
