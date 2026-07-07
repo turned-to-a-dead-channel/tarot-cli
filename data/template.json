@@ -1,0 +1,42 @@
+ 
+ [
+    {
+        "number": 0,
+            "romanNumeral": "",
+            "name": "",
+            "interpretations": {
+                "yesOrNo": "",
+                "standard": {
+                    "meaning": "",
+                    "reversedMeaning": "",
+                    "personalMeaning": "",
+                    "personalReversedMeaning": ""
+                }, 
+                "daily": {
+                    "dailyMeaning": "",
+                    "dailyReversedMeaning": ""
+                },
+                "positional": {
+                    "familyAndFriends": "",
+                    "finalOutcomeMeaning": "",
+                    "futureMeaning": "", 
+                    "hopesAndFearsMeaning": "",
+                    "influencesMeaning": "",
+                    "negativeMeaning": "",
+                    "obstacleMeaning": "",
+                    "pastMeaning": "",
+                    "possibleOutcome": "",
+                    "presentMeaning": "",
+                    "recentMeaning": ""
+                },
+                "subject": {
+                    "adviceMeaning": "",
+                    "careerMeaning": "",
+                    "financeMeaning": "",
+                    "healthMeaning": "",
+                    "loveMeaning": ""
+                }
+            },
+            "lyric": ""
+    }
+]
