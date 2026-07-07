@@ -16,6 +16,9 @@ const colorCodeReset = "\x1b[0m";
 const deck = [];
 deck.push(...majorArcana, ...cups, ...pentacles, ...swords, ...wands);
 
+const majorArcanaDeck = [];
+deck.push(...majorArcana);
+
 async function mainMenu() {
     const menu = [
         {
@@ -30,6 +33,10 @@ async function mainMenu() {
                 {
                     name: colorCode + 'One Card' + colorCodeReset,
                     value: "oneCard"
+                },
+                {
+                    name: colorCode + 'One Card (Major Arcana Only)' + colorCodeReset,
+                    value: "oneCardMajorArcanaOnly"
                 },
                 {
                     name: colorCode + "I no longer wish to see the future. (Quit)" + colorCodeReset,
@@ -54,7 +61,10 @@ async function discoverYourDestiny(userChoice) {
             yayOrNay();
             return;
         case "oneCard": 
-            oneCardSpread();
+            oneCardSpread(deck);
+            return;
+        case "oneCardMajorArcanaOnly":
+            oneCardSpread(majorArcana);
             return;
         case "quit": 
             console.clear();
@@ -67,26 +77,41 @@ async function askYourQuestion() {
     return userQuestion; 
 }
 
-async function pickACard() {
-    return deck[Math.floor(Math.random() * deck.length)];
+async function pickACard(deckType = deck) {
+    return deck[Math.floor(Math.random() * deckType.length)];
 }
 
-async function oneCardSpread() {
+function pondering() {
+    return setInterval(() => {
+        readline.cursorTo(process.stdout, 0);
+        readline.clearLine(process.stdout, 0);
+
+        let processingMessage = processingMessages[Math.floor(Math.random() * processingMessages.length)];
+        process.stdout.write(processingMessage);
+    }, 1000)
+}
+
+async function oneCardSpread(deckType) {
     const question = await askYourQuestion();
-    const card = await pickACard();
+    const card = await pickACard(deckType);
 
     console.clear();
     console.log(colorCodeBold + "The answer to your question, \"" + question + "\" is...." + colorCodeReset);
 
-    setTimeout(() => {
+    const ponderingCall = pondering();
+
+    setTimeout(async () => {
+        console.clear();
         const isReversed = Math.floor(Math.random() * 2) > 0 ? true : false; 
         const meaning = isReversed ? card.interpretations.standard.reversedMeaning : card.interpretations.standard.meaning;
 
         console.log(colorCodeBold + "You selected " + card.name + "!" + colorCodeReset);
         console.log(colorCode + meaning + colorCodeReset);
-
+        clearInterval(ponderingCall);
+        
+        await input ({ message: "Press any key to return to the menu..."});
         mainMenu();
-    }, 2000)
+    }, 4000)
 }
 
 async function yayOrNay() {
@@ -111,19 +136,13 @@ async function yayOrNay() {
 
     let count = 0;
 
-    const pondering = setInterval(() => {
-        readline.cursorTo(process.stdout, 0);
-        readline.clearLine(process.stdout, 0);
-
-        let processingMessage = processingMessages[Math.floor(Math.random() * processingMessages.length)];
-        process.stdout.write(processingMessage);
-    }, 1000)
+    const ponderingCall = pondering();
 
     setTimeout(async () => {
         console.clear();
         console.log(colorCode + messageToPad + colorCodeReset);
         console.log(colorCode + "\n\n(You received " + card.name + ")" + colorCodeReset);
-        clearInterval(pondering);
+        clearInterval(ponderingCall);
         
         await input ({ message: "Press any key to return to the menu..."});
         mainMenu();
