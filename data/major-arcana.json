@@ -65,10 +65,35 @@
             "standard": {
                 "meaning": "This is a time of abundance, fertility, and sensuality. Creative growth is possible.", 
                 "reversedMeaning": "Ineptitude can grow from too much comfort. There's nothing wrong with being comfortable, but one should maintain the ability to deal with hardship.",
-                "personalMeaning": "Is self denial a virtue or is just self denial? There's nothing wrong with indulging when there's an abundance."
-
+                "personalMeaning": "Is self denial a virtue or is just self denial? There's nothing wrong with indulging when there's an abundance.",
+                "personalReversedMeaning": "Don't mistake indulgence for 'self care', it's time to pull back and focus on what actually improves life in the long term, not just right now, this instant."
+            },
+            "daily": {
+                "dailyMeaning": "Take a walk and get some fresh air. Eat something indulgent but healthy, take some time to think about what you want out of your home life.",
+                "dailyReversedMeaning": "Now's the time to pull back and eat some vegetables for a change. Avoid the shops."
+            },
+            "positional": {
+                "familyAndFriends": "Your loved ones may need more from you, work on creating a nurturing environment for them.",
+                "finalOutcomeMeaning": "You may not feel it yet, but your future gains will surpass your expectations.",
+                "futureMeaning": "Success and healing are on their way, patience may be needed until then.", 
+                "hopesAndFearsMeaning": "You work hard now so one day you won't have to.",
+                "influencesMeaning": "Cultivate a nurturing partnership in order to succeed.",
+                "negativeMeaning": "Your intuition needs you to pay attention to it, rather than dismiss it.",
+                "obstacleMeaning": "Patience and optimism is needed as you embark on new projects.",
+                "pastMeaning": "You've been able to start projects in the past and develop skills that you'll soon need again.",
+                "possibleOutcome": "The seeds you've sown will inevitably sprout, it's time to work towards a happier home life.",
+                "presentMeaning": "Now is a time of comfort and nesting. Rely on intution rather than cold, hard logic.",
+                "recentMeaning": "A promising venture is underway, hold onto your optimism."
+            },
+            "subject": {
+                "adviceMeaning": "Spend time in nature, start new projects, pay attention to budding relationships.",
+                "careerMeaning": "Use this time to develop skills and learn new things. It's a time for planting seeds that can one day sprout.",
+                "financeMeaning": "Long term investments beat get rich quick schemes. Make your money grow but go into any ventures with your head on straight and your mind on the future.",
+                "healthMeaning": "Pay attention to nutrition. Healthy meals can still be delicious. Pay attention to your feelings and indulge in something good for you.",
+                "loveMeaning": "Lay the foundation for a deeper relationship. Create a collaborative and soothing environment for yourself and your partner or interest."
             }
-        }
+        },
+        "lyric": "I've seen the world, lit it up as my stage now\nChanneling angels in the new age now\nHot summer days, rock and roll\nThe way you'd play for me at your show\nAnd all the ways I got to know\nYour pretty face, and electric soul - Lana Del Rey"
     },
 
     {
